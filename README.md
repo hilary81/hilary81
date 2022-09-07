@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, Hilary (Kooi Yong)
+#### I'm Full-stack developer student currently studying @Mission Ready
+![I'm Full-stack developer student currently studying @Mission Ready](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**hilary81/hilary81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Hilary(Kooi Yong Tan)
 
-Here are some ideas to get you started:
+I'm Full-stack developer student at Mission Ready.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am from Malaysia, and currently live in Wellington, New Zealand.
+
+I really enjoy learning languages and frameworks like React. 
+
+- 🔭 I’m currently working with a group of Ux designers building an application for motor vehicle insurance company using React and deploy the application by using firebase.
+
+- 🔭 I'm Enthusisatic to learn new Technologies (AI, ML , Docker, Kubernetes, Jenkins and Clouds).
+
+- 🤔 I’m very flexible and adaptive to learning new things. 
+
+
+Skills: REACT / JS / HTML / CSS/ Python/ 
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hilary81)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ hilary-yong-4192a823b/)  
+
