@@ -1,4 +1,7 @@
-### Hi there 👋, Hilary (Kooi Yong)
+###<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+Hi there 👋, Hilary (Kooi Yong)
 #### I'm Full-stack developer student currently studying @Mission Ready
 ![I'm Full-stack developer student currently studying @Mission Ready](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -17,7 +20,9 @@ I really enjoy learning languages and frameworks like React.
 - 🤔 I’m very flexible and adaptive to learning new things. 
 
 
-Skills: REACT / JS / HTML / CSS/ Python/ 
+## Skills: 
+* atom
+REACT / JS / HTML / CSS/ Python/ 
 
 - 🔭 I’m currently working on this page. 
 
