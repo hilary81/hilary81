@@ -1,7 +1,8 @@
-###<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-Hi there 👋, Hilary (Kooi Yong)
+###Hi there 👋, Hilary (Kooi Yong)
+
 #### I'm Full-stack developer student currently studying @Mission Ready
 ![I'm Full-stack developer student currently studying @Mission Ready](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
