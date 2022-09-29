@@ -40,7 +40,8 @@ I really enjoy learning languages and frameworks like React.
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=hilary81
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hilary81)](https://git.io/streak-stats)
+
 
 
 
