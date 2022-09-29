@@ -37,7 +37,11 @@ I really enjoy learning languages and frameworks like React.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    </div>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="40" height='40'>](https://github.com/hilary81) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/hilary-yong-4192a823b/) 
   
+ ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hilary81)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilary81)](https://github.com/anuraghazra/github-readme-stats)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hilary&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
