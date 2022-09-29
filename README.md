@@ -25,7 +25,9 @@ I really enjoy learning languages and frameworks like React.
 
 -- 🔭 I’m currently working on this page. 
 
----:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilary-yong-4192a823b/)
+---:mailbox:How to reach me:  <a href="https://www.linkedin.com/in/hilary-yong-4192a823b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ## Skills: 
 <div>
